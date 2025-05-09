@@ -1,0 +1,18 @@
+{
+  "name": "avatar-ai-webapp",
+  "version": "1.0.0",
+  "description": "Simple 3D avatar AI app with speech and text",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "three": "latest",
+    "@react-three/fiber": "latest",
+    "@react-three/drei": "latest"
+  }
+}
